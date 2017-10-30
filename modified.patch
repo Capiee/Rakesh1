@@ -1,0 +1,9 @@
+diff --git a/pramod.py b/pramod.py
+index e78afb6..4baed01 100644
+--- a/pramod.py
++++ b/pramod.py
+@@ -4,3 +4,4 @@ a = 1
+ b = 2
+ c = a+b
+ print c
++print c
